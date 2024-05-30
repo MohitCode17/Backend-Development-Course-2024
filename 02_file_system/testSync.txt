@@ -1,0 +1,2 @@
+This file is created by fs module.
+This line added by append method using fs module.
